@@ -1,0 +1,16 @@
+/* style.css */
+
+  .list {
+    color:#ff0000;
+    font-size: 18px;
+    font-family:'Times New Roman', Times, serif
+ }
+
+  .steps {
+    font-size: 18px;
+    font-family:'Times New Roman', Times, serif
+ }
+  .tips {
+    color:#0000ff;
+    font-size: 18px;
+  }
