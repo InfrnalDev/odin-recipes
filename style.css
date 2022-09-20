@@ -3,14 +3,55 @@
   .list {
     color:#ff0000;
     font-size: 18px;
-    font-family:'Times New Roman', Times, serif
+    font-family:"Times New Roman", "Times", sans-serif
  }
 
   .steps {
+    color:#00ff00;
     font-size: 18px;
-    font-family:'Times New Roman', Times, serif
+    font-family:"Times New Roman", "Times", sans-serif
  }
+
   .tips {
     color:#0000ff;
     font-size: 18px;
+    font-family:"Times New Roman", "Times", sans-serif
+  }
+
+  .gumbo{
+    background-color:yellow;
+    font-size: 16px;
+    font-family:"Times New Roman","Times", sans-serif
+  }
+
+  .fish {
+    background-color:palegreen;
+    font-size: 16px;
+    font-family: "Times New Roman","Times", sans-serif
+  }
+
+  .ref {
+    background-color:pink;
+    font-size: 16px;
+    font-family: "Times New Roman", "Times", sans-serif
+  }
+
+  .para {
+    color: #663399;
+    background-color: #c0c0c0;
+    font-size: 25px;
+    font-family: "Times New Roman", "Times", sans-serif
+  }
+
+  .head {
+    color: #c0c0c0;
+    background-color: #000000;
+    font-size: 35px;
+    font-family: "Times New Roman", "Times", sans-serif
+  }
+
+  .nutri {
+    color: magenta;
+    font-size: 18px;
+    font-family:"Times New Roman", "Times", sans-serif
   }
